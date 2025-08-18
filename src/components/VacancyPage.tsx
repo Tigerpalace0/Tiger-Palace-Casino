@@ -17,20 +17,20 @@ const VacancyPage = () => {
       ]
     },
     {
-      title: 'Security Officer',
-      department: 'Security',
-      type: 'Full-Time/Part-Time',
-      description: 'Ensure the safety and security of guests and staff. Maintain a visible presence and respond to incidents professionally.',
+      title: 'Inspector',
+      department: 'Gaming',
+      type: 'Full-Time',
+      description: 'Join our professional dealing team to provide exceptional gaming experiences to our guests. Requires excellent customer service skills and knowledge of casino games.',
       requirements: [
-        '21+ years of age',
-        'Valid security license',
-        'Previous security experience preferred',
-        'Strong communication skills',
-        'Physical fitness'
+        '25+ years of age',
+        'High school diploma or equivalent',
+        '5+ year experience preferred',
+        'Strong mathematical skills',
+        'Ability to work flexible hours'
       ]
     },
     {
-      title: 'Food & Beverage Server',
+      title: 'Food & Beverage Services',
       department: 'Dining',
       type: 'Part-Time',
       description: 'Provide excellent service in our dining venues, including The Jackpot Buffet and Tiger Palace Casino Bar.',

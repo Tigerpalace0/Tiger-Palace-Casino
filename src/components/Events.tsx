@@ -45,27 +45,27 @@ const Events: React.FC = () => {
   const upcomingEvents = [
     {
       date: 'August',
-      title: 'Dhamaka',
-      time: '12:00 PM',
-      status: 'Unavailable',
+      title: 'Pole Dance',
+      time: '09:00 PM',
+      status: 'Available',
       videoUrl: '',
-      image: 'A.jpg',
-      orientation: 'portrait'
+      image: 'pole-dance.jpg',
+      orientation: 'landscape'
     },
     {
-      date: 'August 15',
-      title: 'Shweta Mahara Promo',
+      date: 'Coming Soon',
+      title: 'Fashion Show',
       time: '1:00 PM',
-      status: 'Unavailable',
+      status: 'Soon',
       image: 'shweta.jpg',
       videoUrl: 'shweta.mp4',
       orientation: 'landscape'
     },
     {
-      date: 'August-15,16,17',
+      date: 'Coming Soon',
       title: 'Big Bash II',
       time: '12:00 PM',
-      status: 'Unavailable',
+      status: 'Soon',
       videoUrl: 'https://youtu.be/fIkMgyWzN2E',
       image: 'bigbash1.jpg',
       orientation: 'landscape'

@@ -44,7 +44,7 @@ const Events: React.FC = () => {
 
   const upcomingEvents = [
     {
-      date: 'December',
+      date: 'December 1-31',
       title: ' Pole Dance',
       time: '09:00 PM',
       status: 'Available',

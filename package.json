@@ -42,13 +42,13 @@
   "main": "eslint.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhanu07-debug/Casino-project.git"
+    "url": "git+https://github.com/Tigerpalace0/Tiger-Palace-Casino.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bhanu07-debug/Casino-project/issues"
+    "url": "https://github.com/Tigerpalace0/Tiger-Palace-Casino/issues"
   },
-  "homepage": "https://github.com/bhanu07-debug/Casino-project#readme",
+  "homepage": "https://github.com/Tigerpalace0/Tiger-Palace-Casino#readme",
   "description": ""
 }

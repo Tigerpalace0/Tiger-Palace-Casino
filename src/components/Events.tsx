@@ -62,8 +62,8 @@ const Events: React.FC = () => {
       orientation: 'landscape'
     },
     {
-      date: 'Dec 25-26-27-28',
-      title: 'Big Bash II',
+      date: 'Jan 25th',
+      title: 'Sapna Chauhan',
       time: '12:00 PM',
       status: 'Available',
       videoUrl: 'https://youtu.be/fIkMgyWzN2E',

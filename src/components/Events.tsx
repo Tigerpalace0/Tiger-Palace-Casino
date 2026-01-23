@@ -164,7 +164,7 @@ const Events: React.FC = () => {
                     className={`w-full transition-all duration-300 ${
                       event.orientation === 'portrait'
                         ? 'h-60 object-contain bg-black'
-                        : 'h-40 object-cover'
+                        : 'h-50 object-cover'
                     }`}
                   />
                 )}

@@ -66,8 +66,8 @@ const Events: React.FC = () => {
       title: 'Sapna Chauhan',
       time: '12:00 PM',
       status: 'Available',
-      videoUrl: 'https://youtu.be/fIkMgyWzN2E',
-      image: 'bigbash1.jpg',
+      videoUrl: 'https://www.instagram.com/reel/DTkoDA5gY15/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
+      image: 'sapna.jpg',
       orientation: 'landscape'
     },
   ];
